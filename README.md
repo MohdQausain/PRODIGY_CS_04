@@ -99,15 +99,3 @@ ENABLE_TIMESTAMPS = False
 
 ---
 
-## 📸 Screenshots
-
-### 1. CLI 
-<img width="983" height="607" alt="Screenshot 2025-10-05 003303" src="https://github.com/user-attachments/assets/e4d8ae91-4d66-489f-abc5-f36cb4732f76" />
-
-### 2. LOG TEXT FILE (AUTO SAVE)
-<img width="776" height="48" alt="Screenshot 2025-10-05 003411" src="https://github.com/user-attachments/assets/203e5625-93a9-4ee6-8351-6983f78ddf45" />
-
-### 3. INSIDE LOG FILE
-<img width="478" height="647" alt="Screenshot 2025-10-05 003426" src="https://github.com/user-attachments/assets/e6ea8239-33ef-45c9-b13b-edf74c1ae859" />
-
----
