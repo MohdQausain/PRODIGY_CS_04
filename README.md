@@ -97,6 +97,8 @@ Example: To disable timestamps and flush every 30 seconds:
 FLUSH_INTERVAL = 30
 ENABLE_TIMESTAMPS = False
 
+---
+
 ## 📸 Screenshots
 
 ### 1. CLI 
@@ -109,4 +111,3 @@ ENABLE_TIMESTAMPS = False
 <img width="478" height="647" alt="Screenshot 2025-10-05 003426" src="https://github.com/user-attachments/assets/e6ea8239-33ef-45c9-b13b-edf74c1ae859" />
 
 ---
-`---EDUCATION PURPOSE ONLY--`
